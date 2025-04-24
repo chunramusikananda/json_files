@@ -1,0 +1,691 @@
+[
+  {
+    "name": "RequestRadio เพื่อชีวิต",
+    "url": "https://cast.requestradio.in.th:830/stream/",
+    "url_resolved": "https://cast.requestradio.in.th:830/stream/",
+    "homepage": "https://www.requestradio.in.th/forlife",
+    "favicon": "https://www.requestradio.in.th/forlife/wp-content/uploads/2016/07/cropped-icon-150x150.png",
+    "tags": "country,for life"
+  },
+  {
+    "name": "90 rakthai",
+    "url": "http://radio11.plathong.net:8896/;stream.mp3",
+    "url_resolved": "http://radio11.plathong.net:8896/;stream.mp3",
+    "homepage": "http://radio11.plathong.net:8896/;stream.mp3",
+    "favicon": "",
+    "tags": ""
+  },
+  {
+    "name": "Cool fahrenheit",
+    "url": "https://coolism-web.cdn.byteark.com/;stream/1",
+    "url_resolved": "https://coolism-web.cdn.byteark.com/;stream/1",
+    "homepage": "http://www.coolism.net/index.php",
+    "favicon": "http://www.coolism.net/favicon.ico",
+    "tags": ""
+  },
+  {
+    "name": "Greenweve",
+    "url": "https://atimeonline3.smartclick.co.th/green",
+    "url_resolved": "https://atimeonline3.smartclick.co.th/green",
+    "homepage": "https://atime.live/greenwave",
+    "favicon": "https://media.atime.live/editor/station/c50d1595-aacc-4fb6-ba94-46e91242d540.png",
+    "tags": "green wave online 106.5 - เพลงดีดีกับความรู้สึกดีด"
+  },
+  {
+    "name": "มิติข่าว 90.5",
+    "url": "http://live3.smartbomb.co.th:8624/;stream.mp3",
+    "url_resolved": "http://live3.smartbomb.co.th:8624/;stream.mp3",
+    "homepage": "http://www.smartbomb.co.th/",
+    "favicon": "http://www.smartbomb.co.th/assets/images/favicon/apple-icon-120x120.png",
+    "tags": "news,news talk"
+  },
+  {
+    "name": "Isan FM 98",
+    "url": "http://radio11.plathong.net:8900/stream.mp3",
+    "url_resolved": "http://radio11.plathong.net:8900/stream.mp3",
+    "homepage": "http://www.isanfm.com/",
+    "favicon": "http://img.sedoparking.com/templates/logos/sedo_logo.png",
+    "tags": "pop"
+  },
+  {
+    "name": "เพื่อชีวิต",
+    "url": "https://cast.requestradio.in.th:830/stream/",
+    "url_resolved": "https://cast.requestradio.in.th:830/stream/",
+    "homepage": "",
+    "favicon": "",
+    "tags": ""
+  },
+  {
+    "name": "ลูกทุ่ง รักไทย ๙๐",
+    "url": "http://radio11.plathong.net:8896/;stream.mp3",
+    "url_resolved": "http://radio11.plathong.net:8896/;stream.mp3",
+    "homepage": "http://www.90rakthai.com/",
+    "favicon": "http://www.90rakthai.com/favicon.ico",
+    "tags": "music"
+  },
+  {
+    "name": "106 Family News Radio",
+    "url": "https://radio11.plathong.net/7138/;stream.mp3",
+    "url_resolved": "https://radio11.plathong.net/7138/;stream.mp3",
+    "homepage": "https://onair.one/?page_id=405",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/5vfxsvfwzgqm.png",
+    "tags": ""
+  },
+  {
+    "name": "Huahin Radio Thailand",
+    "url": "https://inter1.plathong.net/7008/;stream.mp3",
+    "url_resolved": "https://inter1.plathong.net/7008/;stream.mp3",
+    "homepage": "https://huahinmusicradio.blogspot.com/",
+    "favicon": "https://huahinmusicradio.blogspot.com/favicon.ico",
+    "tags": ""
+  },
+  {
+    "name": "cityradio pattaya",
+    "url": "https://streaming.thaismarthost.com/radio/8020/ctmobile.mp3",
+    "url_resolved": "https://streaming.thaismarthost.com/radio/8020/ctmobile.mp3",
+    "homepage": "https://www.cityradiopattaya.com/",
+    "favicon": "",
+    "tags": "90.25 fm city radio pattaya thailand"
+  },
+  {
+    "name": "Top News",
+    "url": "https://live.topnews.co.th/hls/topnews.m3u8",
+    "url_resolved": "https://live.topnews.co.th/hls/topnews.m3u8",
+    "homepage": "https://www.topnews.co.th/",
+    "favicon": "https://images.topnews.co.th/2021/04/cropped-topnews-fav-2-180x180.png?x-image-process=style/webp",
+    "tags": "hls video,news,politics & current affairs,tv"
+  },
+  {
+    "name": "FM 96.5 - Thinking Radio",
+    "url": "https://rcdn.mcot.net/radiocdn_edge/fm965.stream_aac/playlist.m3u8",
+    "url_resolved": "https://rcdn.mcot.net/radiocdn_edge/fm965.stream_aac/playlist.m3u8",
+    "homepage": "https://thinkingradio.mcot.net/",
+    "favicon": "https://thinkingradio.mcot.net/img/icons/favicon-32x32.png",
+    "tags": "local news,news"
+  },
+  {
+    "name": "EFM",
+    "url": "https://atimeonline3.smartclick.co.th/efm",
+    "url_resolved": "https://atimeonline3.smartclick.co.th/efm",
+    "homepage": "https://atime.live/efm",
+    "favicon": "https://media.atime.live/editor/station/d5aa8ffc-4326-4f2b-9693-d6cb74c7b958.png",
+    "tags": ""
+  },
+  {
+    "name": "Radio Samui Online",
+    "url": "https://stream.mixadance.fm/radiosamui",
+    "url_resolved": "https://stream.mixadance.fm/radiosamui",
+    "homepage": "https://radiosamui.online/",
+    "favicon": "",
+    "tags": "chillout,deep house,jazz,lounge music,organic house,progressive house,relax"
+  },
+  {
+    "name": "ThaiTV TNN16",
+    "url": "https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8",
+    "url_resolved": "https://edge6a.v2h-cdn.com/tnn24/tnn24.stream/playlist.m3u8",
+    "homepage": "https://www.tnnthailand.com/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TNN16_Logo.png/200px-TNN16_Logo.png",
+    "tags": ""
+  },
+  {
+    "name": "106.5 Green Wave",
+    "url": "https://atimeonline.smartclick.co.th/green",
+    "url_resolved": "https://atimeonline.smartclick.co.th/green",
+    "homepage": "https://atime.live/greenwave",
+    "favicon": "https://media.atime.live/editor/station/c50d1595-aacc-4fb6-ba94-46e91242d540.png",
+    "tags": ""
+  },
+  {
+    "name": "Eazy FM 105.5",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EAZYFM_1055AAC.aac",
+    "url_resolved": "https://22283.live.streamtheworld.com:443/EAZYFM_1055AAC.aac",
+    "homepage": "https://eazyfm.teroradio.com/",
+    "favicon": "https://eazyfm.teroradio.com/assets/images/favicon.ico?version=2.0",
+    "tags": ""
+  },
+  {
+    "name": "ไทยลานนาเรดิโอ FM 106.5 จังหวัดตาก",
+    "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "url_resolved": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "homepage": "https://www.lannaradio.com/",
+    "favicon": "https://www.lannaradio.com/favicon.ico",
+    "tags": "country,hits 90's,indie,looktung,thailanna,top 40"
+  },
+  {
+    "name": "Flex 104.5",
+    "url": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+    "url_resolved": "https://streaming.flexconnect.net/voiceflex/voiceflex/playlist.m3u8",
+    "homepage": "https://www.flexconnect.net/",
+    "favicon": "https://www.flexconnect.net/wp-content/uploads/2021/04/cropped-favicon2-32x32.png",
+    "tags": "เชื่อมต่อโลกออนไลน์ เป็นมากกว่าการฟังเพลง"
+  },
+  {
+    "name": "Top News (Mobile Stream)",
+    "url": "https://live3.topnews.co.th/hls/mobile_v1.m3u8",
+    "url_resolved": "https://live3.topnews.co.th/hls/mobile_v1.m3u8",
+    "homepage": "https://www.topnews.co.th/",
+    "favicon": "https://images.topnews.co.th/2022/07/logo_top-news-online-425x107.png",
+    "tags": "hls video,news,news talk,politics,politics & current affairs,tv"
+  },
+  {
+    "name": "FM99",
+    "url": "https://rcdn.mcot.net/radiocdn_edge/fm99.stream_aac/chunklist.m3u8",
+    "url_resolved": "https://rcdn.mcot.net/radiocdn_edge/fm99.stream_aac/chunklist.m3u8",
+    "homepage": "https://fm99activeradio.mcot.net/live/",
+    "favicon": "",
+    "tags": "talk & speech"
+  },
+  {
+    "name": "วัดปากบ่อ",
+    "url": "http://radio1.siamlivehost.com:8001/;",
+    "url_resolved": "http://radio1.siamlivehost.com:8001/;",
+    "homepage": "http://www.watpakbo.com/",
+    "favicon": "http://www.watpakbo.com/images/dham-jak.png",
+    "tags": "fm 91.75 mhz"
+  },
+  {
+    "name": "คลื่นความคิด",
+    "url": "https://rcdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8",
+    "url_resolved": "https://rcdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8",
+    "homepage": "https://thinkingradio.mcot.net/",
+    "favicon": "https://thinkingradio.mcot.net/img/icons/favicon-32x32.png",
+    "tags": "business,news talk,talk"
+  },
+  {
+    "name": "BigFM RadioSocial",
+    "url": "http://media.login.in.th:8195/;stream.mp3",
+    "url_resolved": "http://media.login.in.th:8195/;stream.mp3",
+    "homepage": "http://www.bigfm.fm/",
+    "favicon": "http://www.bigfm.fm/favicon.ico",
+    "tags": "variety"
+  },
+  {
+    "name": "RequestRadio Dance",
+    "url": "https://cast.requestradio.in.th:850//stream/3",
+    "url_resolved": "https://cast.requestradio.in.th:850//stream/3",
+    "homepage": "https://www.requestradio.in.th/danceremix",
+    "favicon": "https://www.requestradio.in.th/danceremix/wp-content/uploads/2016/07/cropped-icon-150x150.png",
+    "tags": "dance,remixes"
+  },
+  {
+    "name": "MCOT 100.5",
+    "url": "https://lcdn.mcot.net/RadioLive/smil:fm1005_live.smil/playlist.m3u8",
+    "url_resolved": "https://lcdn.mcot.net/RadioLive/smil:fm1005_live.smil/playlist.m3u8",
+    "homepage": "https://news1005.mcot.net/",
+    "favicon": "",
+    "tags": ""
+  },
+  {
+    "name": "94 Bangkok Smile",
+    "url": "http://fm94.tv5.co.th:8000/fm94ch3",
+    "url_resolved": "http://fm94.tv5.co.th:8000/fm94ch3",
+    "homepage": "https://fm94.tv5.co.th/",
+    "favicon": "https://static-media.streema.com/media/cache/83/2c/832c5cf81ed3452bcbd15ebcc2564e5c.jpg",
+    "tags": ""
+  },
+  {
+    "name": "ลูกทุ่งเน็ตเวิร์ค",
+    "url": "http://media.login.in.th:8200/;stream.mp3",
+    "url_resolved": "http://media.login.in.th:8200/;stream.mp3",
+    "homepage": "http://looktung.net/",
+    "favicon": "",
+    "tags": "fm 98.5 mhz ลูกทุ่ง ทั้งวัน ทั้งคืน"
+  },
+  {
+    "name": "Bluewave 97 (CR)",
+    "url": "http://112.121.151.133:8109/live",
+    "url_resolved": "http://112.121.151.133:8109/live",
+    "homepage": "https://www.bluewave97.com/",
+    "favicon": "https://www.bluewave97.com/favicon.ico",
+    "tags": "music"
+  },
+  {
+    "name": "Smooth 105.5",
+    "url": "https://live-org-01-cdn.mcot.net/radiocdn_edge/fm1055.stream_aac/chunklist.m3u8",
+    "url_resolved": "https://live-org-01-cdn.mcot.net/radiocdn_edge/fm1055.stream_aac/chunklist.m3u8",
+    "homepage": "https://smoothfm.mcot.net/",
+    "favicon": "https://smoothfm.mcot.net/wp-content/uploads/2024/03/94.74.118.39-1055-logo.png",
+    "tags": "1980's,1990's,international hits"
+  },
+  {
+
+    "name": "BKK.FM",
+    "url": "https://rsas.bkk.fm/radio",
+    "url_resolved": "https://rsas.bkk.fm/radio",
+    "homepage": "https://bkk.fm/",
+    "favicon": "https://bkk.fm/images/favicons/favicon-32x32.png",
+    "tags": "alternative,alternative rock,dance,electronic dance music,rock"
+  },
+  {
+    "name": "requestradio/looktung/",
+    "url": "http://27.254.142.208:8300/",
+    "url_resolved": "http://27.254.142.208:8300/",
+    "homepage": "https://www.requestradio.in.th/looktung/",
+    "favicon": "https://www.requestradio.in.th/looktung/wp-content/uploads/2017/10/cropped-icon-150x150.png",
+    "tags": ""
+  },
+  {
+    "name": "ThaiTV MCOT",
+    "url": "https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8",
+    "url_resolved": "https://edge6a.v2h-cdn.com/mcothd/mcothd.stream/playlist.m3u8",
+    "homepage": "http://mcot.net/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/MCOT-Modernnine_TV_EN_2002.svg/250px-MCOT-Modernnine_TV_EN_2002.svg.png",
+    "tags": ""
+  },
+  {
+    "name": "ThaiTV ThaiPBS",
+    "url": "https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8",
+    "url_resolved": "https://edge6a.v2h-cdn.com/tpbs/tpbs.stream/playlist.m3u8",
+    "homepage": "https://www.thaipbs.or.th/",
+    "favicon": "",
+    "tags": ""
+  },
+  {
+    "name": "บ้านธัมมะ",
+    "url": "https://radio10.plathong.net/7238/;stream.mp3",
+    "url_resolved": "https://radio10.plathong.net/7238/;stream.mp3",
+    "homepage": "https://www.dhammahome.com/radio/direct",
+    "favicon": "https://www.dhammahome.com/images/favicon/apple-touch-icon.png",
+    "tags": "มูลนิธิศึกษาและเผยแพร่พระพุทธศาสนา"
+  },
+  {
+    "name": "ลูกทุ่งมหานคร",
+    "url": "https://rcdn.mcot.net/radiocdn_edge/fm95.stream_aac/chunklist.m3u8",
+    "url_resolved": "https://rcdn.mcot.net/radiocdn_edge/fm95.stream_aac/chunklist.m3u8",
+    "homepage": "https://ltmfm95.mcot.net/",
+    "favicon": "",
+    "tags": "country,local music,thai looktung"
+  },
+  {
+    "name": "Thai PBS TV",
+    "url": "http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8",
+    "url_resolved": "http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8",
+    "homepage": "http://www.thaipbs.or.th/",
+    "favicon": "",
+    "tags": ""
+  },
+  {
+    "name": "GREENWAVE",
+    "url": "https://atimeonline2.smartclick.co.th/green",
+    "url_resolved": "https://atimeonline2.smartclick.co.th/green",
+    "homepage": "",
+    "favicon": "",
+    "tags": "classical"
+  },
+  {
+    "name": "ThaiTV Nation22",
+    "url": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/240p/index.m3u8",
+    "url_resolved": "https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/240p/index.m3u8",
+    "homepage": "https://www.nationtv.tv/",
+    "favicon": "",
+    "tags": ""
+  },
+  {
+    "name": "101.5 Chula Radio",
+    "url": "http://radio11.plathong.net:7590/;stream.mp3",
+    "url_resolved": "http://radio11.plathong.net:7590/;stream.mp3",
+    "homepage": "https://curadio.chula.ac.th/Radio-Live.php",
+    "favicon": "https://curadio.chula.ac.th/v2022/assets/img/cu_radio_plus.ico",
+    "tags": ""
+  },
+  {
+    "name": "requestradio",
+    "url": "http://27.254.142.208:8300/;",
+    "url_resolved": "http://27.254.142.208:8300/;",
+    "homepage": "https://.requestradio.in.th/",
+    "favicon": "",
+    "tags": ""
+  },
+  {
+    "name": "Dootv Nation22",
+    "url": "http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8",
+    "url_resolved": "http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8",
+    "homepage": "https://www.nationtv.tv/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Nationtv.png/120px-Nationtv.png",
+    "tags": ""
+  },
+  {
+    "name": "Dootv Ch33",
+    "url": "http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8",
+    "url_resolved": "http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8",
+    "homepage": "http://www.ch3plus.com/",
+    "favicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Ch3HDLogo.png/200px-Ch3HDLogo.png",
+    "tags": ""
+  },
+  {
+    "name": "Chill",
+    "url": "https://atimeonline.smartclick.co.th/chill",
+    "url_resolved": "https://atimeonline.smartclick.co.th/chill",
+    "homepage": "https://atime.live/chillonline",
+    "favicon": "https://media.atime.live/editor/station/f7e3cab6-2376-48f8-8013-97733693c770.png",
+    "tags": ""
+  },
+  {
+    "name": "ThaiTV PPtv36",
+    "url": "https://lb-mvtv-live.v2h-cdn.com/redirect//hd_pptv/hd_pptv.stream?type=m3u8",
+    "url_resolved": "https://edge2a.v2h-cdn.com//hd_pptv/hd_pptv.stream/playlist.m3u8",
+    "homepage": "https://www.pptvhd36.com/",
+    "favicon": "https://www-live.pptvhd36.com/images/favicon/apple-icon-120x120.png?1730193947-cdn",
+    "tags": ""
+  },
+  {
+    "name": "RequestRadio Inter",
+    "url": "https://cast.requestradio.in.th:840//stream/3",
+    "url_resolved": "https://cast.requestradio.in.th:840//stream/3",
+    "homepage": "https://www.requestradio.in.th/inter",
+    "favicon": "https://www.requestradio.in.th/inter/wp-content/uploads/2016/07/cropped-icon-150x150.png",
+    "tags": "world music"
+  },
+  {
+    "name": "Ban Kruat FM 99.25 MHz บ้านกรวดเวิลด์ ",
+    "url": "http://lnwradio.hostsevenplus.com:9564/",
+    "url_resolved": "http://lnwradio.hostsevenplus.com:9564/",
+    "homepage": "https://buriramradio.com/radio99.25MHz.php",
+    "favicon": "",
+    "tags": "looktung,เพลงลูกทุ่ง"
+  },
+  {
+    "name": "Fabulous 103",
+    "url": "https://fabulous.thailandstreaming.net/fabulous.mp3",
+    "url_resolved": "https://fabulous.thailandstreaming.net/fabulous.mp3",
+    "homepage": "https://alwayspattaya.com/",
+    "favicon": "https://alwayspattaya.com/favicon.ico",
+    "tags": "electronic,folk,local news,local weather"
+  },
+  {
+    "name": "Mommaemradio",
+    "url": "http://112.121.150.133:9386/autodj",
+    "url_resolved": "http://112.121.150.133:9386/autodj",
+    "homepage": "https://www.mommaem.com/",
+    "favicon": "",
+    "tags": ""
+  },
+  {
+    "name": "TheSpot.FM",
+    "url": "https://audio-edge-kef8b.ams.s.radiomast.io/ce7b352b-a993-4451-8c9c-9c6e615402f8",
+    "url_resolved": "https://audio-edge-kef8b.ams.s.radiomast.io/ce7b352b-a993-4451-8c9c-9c6e615402f8",
+    "homepage": "https://thespot.fm/MUSIC",
+    "favicon": "https://players.rcast.net/uploads/images/202302/img_x300_63ec9fcc435db2-75589572-30318629.png",
+    "tags": ""
+  },
+  {
+    "name": "Bluewave 97",
+    "url": "https://80sv2.hostpleng.com/?url=http://112.121.151.133:8109/stream",
+    "url_resolved": "https://80sv2.hostpleng.com/?url=http://112.121.151.133:8109/stream",
+    "homepage": "https://www.bluewave97.com/",
+    "favicon": "https://www.bluewave97.com/favicon.ico",
+    "tags": "music"
+  },
+  {
+    "name": "Chill Online",
+    "url": "https://atimeonline.smartclick.co.th/chill",
+    "url_resolved": "https://atimeonline.smartclick.co.th/chill",
+    "homepage": "https://chill.atimeonline.com/",
+    "favicon": "",
+    "tags": ""
+  },
+  {
+    "name": "ThaiTV ch33",
+    "url": "https://lb-mvtv-live.v2h-cdn.com/redirect/hd_3/hd3.stream?type=m3u8",
+    "url_resolved": "https://edge2a.v2h-cdn.com/hd_3/hd3.stream/playlist.m3u8",
+    "homepage": "https://ch3plus.com/",
+    "favicon": "https://ch3plus.com/static/images/favicon/favicon-96x96.png",
+    "tags": ""
+  },
+  {
+    "name": "Rad Radio",
+    "url": "http://radio1.serverradio.net:8592/;?type=http",
+    "url_resolved": "http://radio1.serverradio.net:8592/;?type=http",
+    "homepage": "https://mytuner-radio.com/radio/rad-radio-895-483972/",
+    "favicon": "",
+    "tags": "89.5 livemusic nonstop all day all night"
+  },
+  {
+    "name": "talay 90.25FM",
+    "url": "https://stream.talay.asia/talay",
+    "url_resolved": "https://stream.talay.asia/talay",
+    "homepage": "https://www.facebook.com/Talay90.25/",
+    "favicon": "https://static.mytuner.mobi/media/tvos_radios/272/talay-9025.c2ab9312.png",
+    "tags": ""
+  },
+  {
+    "name": "requestradio String",
+    "url": "https://cast.requestradio.in.th:2199/tunein/shoutcast1.pls",
+    "url_resolved": "http://27.254.142.208:8100/stream",
+    "homepage": "",
+    "favicon": "",
+    "tags": ""
+  },
+  {
+    "name": "สวพ.91",
+    "url": "http://122.155.16.48:8955/;stream.mp3",
+    "url_resolved": "http://122.155.16.48:8955/;stream.mp3",
+    "homepage": "http://fm91bkk.com/",
+    "favicon": "http://fm91bkk.com/favicon.ico",
+    "tags": "traffic,volunteer"
+  },
+  {
+    "name": "สังฆทานธรรม",
+    "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8615",
+    "url_resolved": "https://cdn-th2.livestreaming.in.th/shoutcast/8615",
+    "homepage": "https://www.watsanghathan.com/content/5406/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B8%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%86%E0%B8%97%E0%B8%B2%E0%B8%99%E0%",
+    "favicon": "",
+    "tags": "สังฆทานธรรม คลื่นขาว จาก ชาวพุทธ"
+  },
+  {
+    "name": "MET107",
+    "url": "https://rcdn.mcot.net/radiocdn_edge/fm107.stream_aac/chunklist.m3u8",
+    "url_resolved": "https://rcdn.mcot.net/radiocdn_edge/fm107.stream_aac/chunklist.m3u8",
+    "homepage": "https://www.met107.fm/",
+    "favicon": "https://www.met107.fm/favicon.ico",
+    "tags": "international hits,world music"
+  },
+  {
+    "name": "Mcot Radio Buriram 92.0 FM",
+    "url": "http://rstream.mcot.net:9050/",
+    "url_resolved": "http://rstream.mcot.net:9050/",
+    "homepage": "https://radio.mcot.net/",
+    "favicon": "",
+    "tags": ""
+  },
+  {
+    "name": "102.5 Get FM",
+    "url": "https://radio12.plathong.net/7172/;stream",
+    "url_resolved": "https://radio12.plathong.net/7172/;stream",
+    "homepage": "http://www.get1025.com/",
+    "favicon": "https://static-media.streema.com/media/cache/ef/68/ef68d582ed389ae164936830004fc8ea.jpg",
+    "tags": ""
+  },
+  {
+    "name": "City Radio Pattaya",
+    "url": "https://streaming.thaismarthost.com:8020/ctmobile.mp3",
+    "url_resolved": "https://streaming.thaismarthost.com:8020/ctmobile.mp3",
+    "homepage": "https://www.cityradiopattaya.com/",
+    "favicon": "https://www.google.com/search?q=city+radio+pattaya+image&client=ms-android-samsung-rvo1&sca_esv=560456375&tbm=isch&prmd=ivmn&sxsrf=AB5stBg0hgv0cfEt9fOgebSWtZydVE2N-Q:1693126672868&source=lnms&sa=X&ved=2ahUKEwjhjJWvvPyAAxUOSvEDHWlfDKsQ_AUoAXoECAQQAQ&biw=412&bih=717&dpr=2.63#imgrc=lZ9y-1h-iqw0tM",
+    "tags": "pop"
+  },
+  {
+    "name": "JS 100",
+    "url": "http://103.246.19.203:8004/listen.pls?sid=1",
+    "url_resolved": "http://103.246.19.203:8004/stream",
+    "homepage": "https://www.js100.com/en/site/home",
+    "favicon": "",
+    "tags": ""
+  },
+  {
+    "name": "666 Radio Station Khonkaen - FM 90.75",
+    "url": "http://media.login.in.th:8845/;",
+    "url_resolved": "http://media.login.in.th:8845/;",
+    "homepage": "http://666radiostation.com/",
+    "favicon": "",
+    "tags": "talk & speech"
+  },
+  {
+    "name": "ALTV (Low 144p)",
+    "url": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_144p/index.m3u8",
+    "url_resolved": "https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_144p/index.m3u8",
+    "homepage": "https://www.altv.tv/live",
+    "favicon": "https://www.altv.tv/favicon.ico",
+    "tags": "educational,hls video,kids,teens,tv"
+  },
+  {
+    "name": "Sunshine Radio",
+    "url": "http://c1.hostpleng.cloud:8046/live",
+    "url_resolved": "http://c1.hostpleng.cloud:8046/live",
+    "homepage": "http://www.sunshinefm.com/pattaya/",
+    "favicon": "http://www.sunshinefm.com/favicon/apple-icon-120x120.png",
+    "tags": "ซันไชน์ เรดิโอ พัทยา"
+  },
+  {
+    "name": "สังฆทานธรม",
+    "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8615",
+    "url_resolved": "https://cdn-th2.livestreaming.in.th/shoutcast/8615",
+    "homepage": "https://www.watsanghathan.com/content/5406/%E0%B8%AA%E0%B8%96%E0%B8%B2%E0%B8%99%E0%B8%B5%E0%B8%A7%E0%B8%B4%E0%B8%97%E0%B8%A2%E0%B8%B8%E0%B8%AA%E0%B8%B1%E0%B8%87%E0%B8%86%E0%B8%97%E0%B8%B2%E0%B8%99%E0%",
+    "favicon": "",
+    "tags": "คลื่นขาว จาก ชาวพุทธ"
+  },
+  {
+    "name": "Sunshine Radio Pattaya",
+    "url": "http://c1.hostpleng.cloud:8046/live",
+    "url_resolved": "http://c1.hostpleng.cloud:8046/live",
+    "homepage": "http://www.sunshinefm.com/pattaya",
+    "favicon": "http://www.sunshinefm.com/2020/images/logo.png",
+    "tags": ""
+  },
+  {
+    "name": "90.5 Smart News มิติข่าว",
+    "url": "http://live3.smartbomb.co.th:8624/;stream.mp3",
+    "url_resolved": "http://live3.smartbomb.co.th:8624/;stream.mp3",
+    "homepage": "http://www.smartbomb.co.th/",
+    "favicon": "http://www.smartbomb.co.th/assets/images/favicon/apple-icon-120x120.png",
+    "tags": ""
+  },
+  {
+    "name": "ลานนาเรดิโอ",
+    "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "url_resolved": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "homepage": "https://www.lannaradio.com/",
+    "favicon": "https://www.lannaradio.com/favicon.ico",
+    "tags": "music"
+  },
+  {
+    "name": "FM ONE",
+    "url": "https://apps4.mcot.net/stream578.aac",
+    "url_resolved": "https://apps4.mcot.net/stream578.aac",
+    "homepage": "",
+    "favicon": "",
+    "tags": "pop"
+  },
+  {
+    "name": "ThaiFM 96.5",
+    "url": "https://rcdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8",
+    "url_resolved": "https://rcdn.mcot.net/radiocdn_edge/fm965.stream_aac/chunklist.m3u8",
+    "homepage": "https://thinkingradio.mcot.net/",
+    "favicon": "https://thinkingradio.mcot.net/img/icons/favicon-32x32.png",
+    "tags": ""
+  },
+  {
+    "name": "Metro Radio 90.5 Khon Kaen",
+    "url": "http://radio4.thzhost.com:4114/;",
+    "url_resolved": "http://radio4.thzhost.com:4114/;",
+    "homepage": "http://listenmetro.com/",
+    "favicon": "",
+    "tags": "thai pop"
+  },
+  {
+    "name": "Looktung Eingdoi",
+    "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "url_resolved": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "homepage": "http://eingdoi.com/looktung.html",
+    "favicon": "http://eingdoi.com/favicon.ico",
+    "tags": ""
+  },
+  {
+    "name": "FM 91",
+    "url": "https://www.fm91bkk.com:8900/;stream.mp3",
+    "url_resolved": "https://www.fm91bkk.com:8900/;stream.mp3",
+    "homepage": "https://www.fm91bkk.com/",
+    "favicon": "https://www.fm91bkk.com/favicon.ico",
+    "tags": ""
+  },
+  {
+    "name": "91.5 FM Panzer Radio Station",
+    "url": "http://radio.servradio.com:9398/;stream.mp3",
+    "url_resolved": "http://radio.servradio.com:9398/;stream.mp3",
+    "homepage": "https://thaidio.blogspot.com/2015/01/915-cool-fm.html",
+    "favicon": "https://1.bp.blogspot.com/--_GwnuYDbyo/YDHq2ipNXjI/AAAAAAAAabg/1N6BIOibG0UE7rkiUea3ZsNpwg0SY4TMQCLcBGAsYHQ/s90/91.5fm.png",
+    "tags": ""
+  },
+  {
+    "name": "ล้านนา เรดิโอ ",
+    "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "url_resolved": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "homepage": "https://www.lannaradio.com/",
+    "favicon": "https://www.lannaradio.com/favicon.ico",
+    "tags": "ลูกทุ่ง เพื่อชีวิต"
+  },
+  {
+    "name": "ดนตรีสีสัน หาดใหญ่",
+    "url": "https://apps4.mcot.net/stream843.aac",
+    "url_resolved": "https://apps4.mcot.net/stream843.aac",
+    "homepage": "https://www.onairhatyai.com/",
+    "favicon": "",
+    "tags": "music"
+  },
+  {
+    "name": "JS100",
+    "url": "http://103.246.19.203:8004/stream?type=http&nocache=145",
+    "url_resolved": "http://103.246.19.203:8004/stream?type=http&nocache=145",
+    "homepage": "https://www.js100.com/live",
+    "favicon": "",
+    "tags": "traffic,volunteer"
+  },
+  {
+    "name": "COOLISM",
+    "url": "https://coolism-web.cdn.byteark.com/;stream/1",
+    "url_resolved": "https://coolism-web.cdn.byteark.com/;stream/1",
+    "homepage": "https://www.coolism.net/",
+    "favicon": "https://www.coolism.net/favicon.ico",
+    "tags": "คูลลิซึ่ม คลื่นเพลงเพราะอันดับ 1 ของเมืองไทย"
+  },
+  {
+    "name": "วิทยุเสียงอิสลาม",
+    "url": "https://radio12.plathong.net/7234/;stream.mp3",
+    "url_resolved": "https://radio12.plathong.net/7234/;stream.mp3",
+    "homepage": "https://muslim.fm/",
+    "favicon": "",
+    "tags": ""
+  },
+  {
+    "name": "Looktung Eing",
+    "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "url_resolved": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "homepage": "https://www.eingdoi.com/looktung",
+    "favicon": "https://www.eingdoi.com/favicon.ico",
+    "tags": ""
+  },
+  {
+    "name": "MCOT อุดรธานี",
+    "url": "http://rstream.mcot.net:9044/;.mp3",
+    "url_resolved": "http://rstream.mcot.net:9044/;.mp3",
+    "homepage": "https://radio.mcot.net/",
+    "favicon": "",
+    "tags": "อสมท อุดรธานี"
+  },
+  {
+    "name": "วิทยุวัดนายโรง",
+    "url": "http://103.7.56.219:4106/",
+    "url_resolved": "http://103.7.56.219:4106/",
+    "homepage": "https://watnairong.com/",
+    "favicon": "",
+    "tags": "fm 94.75"
+  },
+  {
+    "name": "วัดป่าไทรงาม",
+    "url": "https://radio10.plathong.net/7110/;stream.mp3",
+    "url_resolved": "https://radio10.plathong.net/7110/;stream.mp3",
+    "homepage": "http://www.watpasaingam.com/",
+    "favicon": "",
+    "tags": "วิทยุออนไลน์ วัดป่าไทรงาม (fm 98.25 mhz)"
+  }
+]
